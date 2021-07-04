@@ -18,5 +18,15 @@ This is the Famous me.
 
 Adding GIT Comparisions lectures...........
 
+## Contributors
+Jatin Makhija
+IT
+Knowledge Base
+London
+Uk
+
+
 ## GIT Contents Comparision
 Comparision with Repo
+
+
