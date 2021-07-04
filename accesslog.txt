@@ -1,0 +1,2 @@
+## Access to Auth. Users Only
+Added this file while learning stash
