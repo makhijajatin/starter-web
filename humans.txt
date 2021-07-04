@@ -5,7 +5,7 @@
 
     Jatin Makhija
     Jatin@gmail.com
-    IT IT IT IT IT IT
+    M365 Engineer
     
 
 # THANKS
@@ -15,4 +15,6 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, Angular, 
-    jQuery, Modernizr, AJAX
+    jQuery, Modernizr, AI, 
+    Machine Learnin AWS
+    Google Cloud
