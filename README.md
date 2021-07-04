@@ -8,6 +8,7 @@ This repository is for showing how Git and GitHub work
 ## Purpose
 
 A lot of lectures are already submitted.
+And a lot of lectures are still pending.
 
 Sample website with plenty of files for demos
 New Web Project 
@@ -28,5 +29,7 @@ Uk
 
 ## GIT Contents Comparision
 Comparision with Repo
+
+
 
 
