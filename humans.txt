@@ -3,7 +3,10 @@
 
 # TEAM
 
-    <name> Jatin Makhija <role> -- <twitter>
+    Jatin Makhija
+    Jatin@gmail.com
+    IT IT IT IT IT IT
+    
 
 # THANKS
 
