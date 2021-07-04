@@ -10,7 +10,9 @@
 
 # THANKS
 
-    <name>
+    Thanks Jatin Makhija
+    MAnaged Services 
+    Docker Tech Log Java
 
 # TECHNOLOGY COLOPHON
 
