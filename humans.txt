@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> Jatin Makhija <role> -- <twitter>
 
 # THANKS
 
