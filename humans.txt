@@ -5,6 +5,9 @@ Hi, I am modifying the file before rebase.
 
 
 
+=======
+Hi. going to insert conflicts in my feature branch.
+
 # TEAM
 
     Jatin Makhija
