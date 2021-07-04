@@ -5,12 +5,14 @@
 
     Jatin Makhija
     Jatin@gmail.com
-    IT IT IT IT IT IT
+    Devops Engineer
     
 
 # THANKS
 
-    <name>
+    Thanks Jatin Makhija
+    MAnaged Services 
+    Docker Tech Log Java
 
 # TECHNOLOGY COLOPHON
 
